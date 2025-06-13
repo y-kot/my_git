@@ -44,7 +44,7 @@ CREATE TABLE riders
 	sign_up DATE
 
 );	
---drop table if exists deliveries;
+
 CREATE TABLE deliveries
 (
 	delivery_id INT  PRIMARY KEY,
