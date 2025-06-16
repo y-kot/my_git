@@ -1,0 +1,1 @@
+https://app.swaggerhub.com/apis/systemanalitics/Stepik_course/1.0.0
